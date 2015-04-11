@@ -1,2 +1,2 @@
 # utboxing
-The University of Texas Boxing Website!
+The University of Texas Boxing Website
